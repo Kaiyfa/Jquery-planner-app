@@ -64,9 +64,7 @@ A user clicks on slots on the color-coded calendar and edits the events
 ![image](https://user-images.githubusercontent.com/115763652/207065623-60ea1a71-1fe0-475a-a071-e22e4a510fbf.png)
 
 ![image](https://user-images.githubusercontent.com/115763652/207068884-cc287934-4b38-43e0-a94f-a4d45114b854.png)
-          
- ![image](https://user-images.githubusercontent.com/115763652/207065144-832ecb19-e55d-4d05-954e-c18c12683fde.png
-
+         
 
 ## License
 Daily Planner App is under MIT License.
