@@ -36,9 +36,6 @@ The app should:
     <li>Persist events between refreshes of a page.</li>
 </ul>
 
-## Mock-up
-(./images/05-third-party-apis-homework-demo.gif)
-
 ## Contributors
 <ul>
     <li>Chris-Eric Dagbo - https://github.com/cedagbo </li>
@@ -68,7 +65,7 @@ A user clicks on slots on the color-coded calendar and edits the events
 
 ![image](https://user-images.githubusercontent.com/115763652/207068884-cc287934-4b38-43e0-a94f-a4d45114b854.png)
           
-          ![image](https://user-images.githubusercontent.com/115763652/207065144-832ecb19-e55d-4d05-954e-c18c12683fde.png
+ ![image](https://user-images.githubusercontent.com/115763652/207065144-832ecb19-e55d-4d05-954e-c18c12683fde.png
 
 
 ## License
