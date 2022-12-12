@@ -37,6 +37,7 @@ The app should:
 </ul>
 
 ## Mock-up
+(./images/05-third-party-apis-homework-demo.gif)
 
 ## Contributors
 <ul>
@@ -47,8 +48,8 @@ The app should:
 
 ## Deployment
 <ul>
-    <li>Website: </li>
-    <li>Repository: https://github.com/cedagbo/Daily-Planner-App </li>
+    <li>Website: https://kaiyfa.github.io/Jquery-planner-app/</li>
+    <li>Repository:https://github.com/Kaiyfa/Jquery-planner-app </li>
 </ul>
 
 ## Technologies
@@ -62,9 +63,12 @@ The app should:
 The user does not need to install any software to use the given web application.
 
 ## Usage
+A user clicks on slots on the color-coded calendar and edits the events
+![image](https://user-images.githubusercontent.com/115763652/207065623-60ea1a71-1fe0-475a-a071-e22e4a510fbf.png)
 
-
-## Documentation
+![image](https://user-images.githubusercontent.com/115763652/207068884-cc287934-4b38-43e0-a94f-a4d45114b854.png)
+          
+          ![image](https://user-images.githubusercontent.com/115763652/207065144-832ecb19-e55d-4d05-954e-c18c12683fde.png
 
 
 ## License
